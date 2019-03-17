@@ -1,4 +1,4 @@
-# Wordscapes
+# Wordscapes Solver
 
 Simple script in python that automates the iPhone mobile app wordscapes.
 
